@@ -21,4 +21,5 @@
 ##### 5、cps-focus    
    网络爬虫的例子，从中安网获取实时的新闻信息，并输出json格式的文件；
 
-##### 6、
+##### 6、selenium
+   自动测试的例子，使用selenium和chromedriver来控制chrome浏览器和网页并控制流程；
